@@ -1,4 +1,4 @@
-package com.che;
+package com.rqbao;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
